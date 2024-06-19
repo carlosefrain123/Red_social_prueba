@@ -1,0 +1,7 @@
+1) Actiar los test
+vendor/bin/phpunit
+2)instalar el PHPUnit
+composer require --dev phpunit/phpunit
+ejecutar test
+php artisan test
+
